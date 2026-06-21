@@ -1,6 +1,6 @@
 **auto_follow_users**
 
-![auto_follow_users GitHub Repository](https://github.com/ViquinhoDev/auto_follow_users)
+<img width="1920" height="1080" alt="Captura de tela 2026-06-21 161701" src="https://github.com/user-attachments/assets/677248ce-031b-4de7-9a36-cab75b5a18ce" />
 
 **Description**
 
